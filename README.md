@@ -6,7 +6,7 @@
   </picture>
 </h1>
 
-Hi, I'm Nathan 👋 Engineer, founder, tinkerer, podcaster. When I'm not working on my own projects, I'm usually helping others with theirs. I'm currently focused on my podcast startup, The Take, a series of micro episodes about tech. Check it out below!
+Hi, I'm Nathan 👋 When I'm not working on my own projects, I'm usually helping others with theirs. I'm currently focused on my podcast startup, The Take, a series of micro episodes about tech. Check it out below!
 
 ### O(N): The Take – A LinkedIn-exclusive podcast
 
