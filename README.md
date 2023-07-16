@@ -10,7 +10,7 @@ Hi, I'm Nathan 👋 When I'm not working on my own projects, I'm usually helping
 
 ### O(N): The Take – A LinkedIn-exclusive podcast
 
-- 🔥 [Never Push to Prod on Friday](https://www.linkedin.com/feed/update/urn:li:activity:7080639315600412672)
+- 🔥 [Never Push to Prod on Friday!](https://www.linkedin.com/feed/update/urn:li:activity:7080639315600412672)
 - 🔮 [Future-Thinking Leads](https://www.linkedin.com/feed/update/urn:li:activity:7083833539397341185)
 - 🪓 Domains Get Googled
-- 🙈 Looks Good to Me
+- 🙈 Looks Good to Me!
