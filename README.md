@@ -14,4 +14,4 @@ Hi, I'm Nathan 👋 When I'm not working on my own projects, I'm usually helping
 - :crystal_ball: [Future-Thinking Leads](https://www.linkedin.com/feed/update/urn:li:activity:7083833539397341185)
 - :relieved: [Defining Your Self-Worth](https://www.linkedin.com/feed/update/urn:li:activity:7088939334569000962)
 - :see_no_evil: [Looks Good to Me!](https://www.linkedin.com/feed/update/urn:li:activity:7091467927975051264)
-- :rescue_worker_helmet: No Resume Left Behind
+- :dove: [No Candidate Left Behind](https://www.linkedin.com/feed/update/urn:li:activity:7093985406592954369)
