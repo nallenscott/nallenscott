@@ -17,3 +17,4 @@ Hi, I'm Nathan 👋 When I'm not working on my own projects, I'm usually helping
 - :dove: [No Candidate Left Behind](https://www.linkedin.com/feed/update/urn:li:activity:7093985406592954369)
 - :cloud_with_lightning_and_rain: [Is A.I. a Dark Cloud?](https://www.linkedin.com/feed/update/urn:li:activity:7096572075326275584)
 - :joy: [When A.I. Gets Sassy](https://www.linkedin.com/feed/update/urn:li:activity:7099331445709541376)
+- :electric_plug: [Unplugging from the Matrix](https://www.linkedin.com/feed/update/urn:li:activity:7101659858088718336)
