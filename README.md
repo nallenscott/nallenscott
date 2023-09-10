@@ -19,3 +19,4 @@ Hi, I'm Nathan 👋 When I'm not working on my own projects, I'm usually helping
 - :joy: [When A.I. Gets Sassy](https://www.linkedin.com/feed/update/urn:li:activity:7099331445709541376)
 - :electric_plug: [Unplugging from the Matrix](https://www.linkedin.com/feed/update/urn:li:activity:7101659858088718336)
 - :gift: [Open Source is Not a Gift](https://www.linkedin.com/feed/update/urn:li:activity:7104136868501344256)
+- :upside_down_face: [Keep It Simple Stupid](https://www.linkedin.com/feed/update/urn:li:activity:7106711398302314496)
