@@ -6,7 +6,7 @@
   </picture>
 </h1>
 
-Hi, I'm Nathan 👋 When I'm not working on my own projects, I'm usually helping others with theirs. I'm currently focused on my podcast project, The Take, a series of micro episodes about tech. Check it out below!
+Hi, I'm Nathan 👋 When I'm not working on my own projects, I'm usually helping others with theirs. I'm currently focused on my podcast, The Take, a series of micro episodes about tech. Check it out below!
 
 ### The Take – Let's talk tech ☕️
 
