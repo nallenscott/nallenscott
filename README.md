@@ -1,8 +1,8 @@
 <h1>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nallenscott/nallenscott/assets/11765848/e2a43216-871f-441a-83f1-95e48a9626c1">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/nallenscott/nallenscott/assets/11765848/f7040f6c-dd26-4ca1-9133-9568610d2fe4">
-    <img alt="Burning the midday, or midnight, oil." src="https://github.com/nallenscott/nallenscott/assets/11765848/f7040f6c-dd26-4ca1-9133-9568610d2fe4">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nallenscott/nallenscott/assets/11765848/43200d83-9b0e-42b3-9896-d9d08529a404">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/nallenscott/nallenscott/assets/11765848/9ee1e348-a108-4f35-9a1a-17d2cb30e12f">
+    <img alt="Burning the midday, or midnight, oil." src="https://github.com/nallenscott/nallenscott/assets/11765848/9ee1e348-a108-4f35-9a1a-17d2cb30e12f">
   </picture>
 </h1>
 
